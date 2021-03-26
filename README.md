@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mahimaholla
+- 👀 I’m interested in Web, android and game development
+- 🌱 I’m currently learning engineering in computer science
+- 📫 How to reach me-- mahimaholla17@gmail.com
